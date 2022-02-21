@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **TomasManuelTM/TomasManuelTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+```php
+$users = Developer::create([
+    name: 'Tomas Manuel',
+    lastName: 'TM',
+]);
+```
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omasManuelTM&count_private=true&layout=compact)
+![Edivaldo's github stats](https://github-readme-stats.vercel.app/api?username=omasManuelTM&show_icons=true&count_private=true)
