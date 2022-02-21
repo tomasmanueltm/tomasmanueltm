@@ -21,5 +21,5 @@ $users = Developer::create([
 ]);
 ```
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omasManuelTM&count_private=true&layout=compact)
-![Edivaldo's github stats](https://github-readme-stats.vercel.app/api?username=omasManuelTM&show_icons=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasManuelTM&count_private=true&layout=compact)
+![Edivaldo's github stats](https://github-readme-stats.vercel.app/api?username=TomasManuelTM&show_icons=true&count_private=true)
