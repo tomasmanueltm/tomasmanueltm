@@ -1,11 +1,14 @@
 
-### writing code 😎
+### escrevendo codigos 😎
+  - 💻 ...
+  - 📚 Buscando...
+  - 🎯 Praticando...
+
 
 ```php
 $profile = Developer::create([
-    firstName: 'Tomas',
-    middleName: 'Manuel'
-    lastName: 'Baptista',
+    eu: 'Tomas Manuel'
+    sobre : 'Baptista',
     linkedin: 'Tomasmanueltm',
     facebook: 'Tomasmanueltm',
     email: 'antoniomanuelbaptistabaptista@gmail.com'
