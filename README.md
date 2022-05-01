@@ -8,7 +8,6 @@
 ```php
 $profile = Developer::create([
     eu: 'Tomas Manuel'
-    sobre : 'Baptista',
     linkedin: 'Tomasmanueltm',
     facebook: 'Tomasmanueltm',
     email: 'antoniomanuelbaptistabaptista@gmail.com'
